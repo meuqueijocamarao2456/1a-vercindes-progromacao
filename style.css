@@ -6,3 +6,9 @@ text-align: center;
 #images{width: 400%;
 height: 600%;
 border: 15px solid whitesmoke;}
+
+
+.itens{font-style: italic;
+text-align: left;}
+
+.benefícios{background-color: white;}
